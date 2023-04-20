@@ -1,4 +1,4 @@
-"""Unit tests for FastAPI Hello World, and trying to push to main"""
+"""Unit tests for FastAPI Hello World"""
 from fastapi.testclient import TestClient
 from main import app
 
