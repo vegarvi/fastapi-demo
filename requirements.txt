@@ -1,2 +1,5 @@
 fastapi==0.95.1
 httpx==0.24.0
+datetime
+pyodbc==4.0.39
+pydantic==1.10.4
